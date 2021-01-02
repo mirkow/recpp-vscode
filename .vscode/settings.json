@@ -1,0 +1,13 @@
+{
+	"editor.insertSpaces": false,
+	"cSpell.words": [
+		"recpp",
+		"upsert",
+		"vscodelc"
+	],
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnSave": true,
+	"[typescript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	}
+}
